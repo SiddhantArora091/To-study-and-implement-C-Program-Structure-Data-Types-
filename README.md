@@ -1,8 +1,9 @@
-## ✍️ Author
+Siddhant Arora
 
-**Prateek Sinha**  
-Roll No: 24070123077  
-Class: ENTC A3
+PRN: 24070123107 
+
+Class: ENTC B1
+
 # Experiment 2: Data Types and Their Sizes in C++
 
 ## 📘 Theory
