@@ -45,13 +45,10 @@ For each input, it displays the value entered and the size (in bytes) occupied b
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
-### Purpose 1  
-To familiarize students with basic C++ data types and how they are represented in memory.
+The purpose of this program is to help beginners understand the fundamental data types in C++, how much memory each data type occupies, and how to handle user input and output in a console application. It provides practical experience with the `sizeof` operator and demonstrates the differences in memory allocation between data types such as integers, floating-point numbers, characters, strings, and booleans.
 
-### Purpose 2  
-To learn how to take input from the user and display both the value and the size of each data type, which is essential for understanding memory allocation and efficient programming.
 
 ---
 
