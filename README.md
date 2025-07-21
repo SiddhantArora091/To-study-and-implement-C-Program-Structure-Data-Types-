@@ -52,6 +52,14 @@ The purpose of this program is to help beginners understand the fundamental data
 
 ---
 
+Output:-
+
+Enter any integer:88
+
+Integer = 88 and size is 4 bytes
+
+Enter any number with decimal:
+
 ## ✅ Conclusion
 
 This experiment provides practical insight into how various fundamental data types are handled in C++. By knowing the size of each type, programmers can write more memory-efficient code and avoid potential pitfalls related to data storage. This foundational knowledge is critical as students advance to more complex programming topics.
